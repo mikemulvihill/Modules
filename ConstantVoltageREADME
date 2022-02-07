@@ -1,0 +1,3 @@
+LM317 Constant Voltage Regulator. 
+User must change capactior and resistor values. 
+Three I/O pins labeled as Input, Output, and Ground to interface with your circuit.
