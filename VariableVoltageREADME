@@ -1,0 +1,3 @@
+LM317 Variable Voltage Regulator. 
+User must change capactior, resistor, and potentiometer values. 
+Three I/O pins labeled as Input, Output, and Ground to interface with your circuit.
